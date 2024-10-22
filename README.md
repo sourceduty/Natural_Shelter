@@ -1,4 +1,4 @@
-![Natural Shelter](https://github.com/user-attachments/assets/9415e3cf-a3a9-49ce-8c2d-fd8db1654f0d)
+![Shelters](https://github.com/user-attachments/assets/4e513a1e-4aa5-4a9d-beb0-9f91881c5417)
 
 > Design temporary survival and camping shelters using natural materials.
 #
