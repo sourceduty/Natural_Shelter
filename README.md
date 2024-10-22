@@ -1,3 +1,4 @@
+![Beach Shelter](https://github.com/user-attachments/assets/27cd0e06-7689-4e99-aaab-305047b39254)
 ![Shelters](https://github.com/user-attachments/assets/4e513a1e-4aa5-4a9d-beb0-9f91881c5417)
 
 > Design temporary survival and camping shelters using natural materials.
